@@ -18,6 +18,9 @@
 # we will approximate pi by approximating the ratio of the two areas.
 # We generate random number inside the square and we count how many times the point falls inside the circle and the square.
 
+# Once your approximation works, create a plot that shows how the approximation improves with the number of generated points.
+# The x-axis of your plot should be the number of generated samples, and the y-axis the deviation from the true value of pi.
+
 function stochastic_approximation_pi(number_of_samples)
 
     # initialise counts to zero.
