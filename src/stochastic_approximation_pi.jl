@@ -20,6 +20,7 @@
 
 # Once your approximation works, create a plot that shows how the approximation improves with the number of generated points.
 # The x-axis of your plot should be the number of generated samples, and the y-axis the deviation from the true value of pi.
+# To create the plot, consult the matplotlib.pyplot command.
 
 function stochastic_approximation_pi(number_of_samples)
 
