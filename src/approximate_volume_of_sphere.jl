@@ -1,4 +1,4 @@
-# In this exersice we will approximate the volume of the sphere.
+# In this exercise we will approximate the volume of the sphere.
 # In actual fact, there is a formulate for calculating the volume, but we will use the stochastic method instead.
 #
 # We will use the same idea as in the stochastic calculate of pi:

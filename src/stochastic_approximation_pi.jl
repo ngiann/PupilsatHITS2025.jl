@@ -14,7 +14,7 @@
 #   - Using the rand command, how can we generate a random number between 0 and 2?
 #   - Using the rand command, how can we generate a random number between -1 and 2?
 
-# The main idea behind this exersice is the following: 
+# The main idea behind this exercise is the following: 
 # we will approximate pi by approximating the ratio of the two areas.
 # We generate random number inside the square and we count how many times the point falls inside the circle and the square.
 
