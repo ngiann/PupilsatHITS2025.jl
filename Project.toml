@@ -3,7 +3,13 @@ uuid = "0610ac47-01a7-41e8-a5a6-0c0a01d484b9"
 authors = ["Nikos Gianniotis <ngiann@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
 [compat]
+LinearAlgebra = "1.11.0"
+Random = "1.11.0"
 julia = "1.6.7"
 
 [extras]

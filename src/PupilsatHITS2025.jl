@@ -1,5 +1,9 @@
 module PupilsatHITS2025
 
-# Write your package code here.
+    using LinearAlgebra, Random
+
+    include("stochastic_approximation_pi.jl")
+
+    export stochastic_approximation_pi
 
 end
