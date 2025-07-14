@@ -4,8 +4,8 @@
 
 
 # Before you start to programm:
-# - Define a square whose centre is at 0 and its side has length 1 unit.
-# - Define a circle whose centre is at 0 and its diameter has length 1 unit.
+# - Define a square whose centre is at (0,0) and its side has length 1 unit.
+# - Define a circle whose centre is at (0,0) and its diameter has length 1 unit.
 # - We say that the circle is circumscribed by the square.
 # - Draw the circle and square.
 # - Write down the area of the square and the circle and take the ratio.
