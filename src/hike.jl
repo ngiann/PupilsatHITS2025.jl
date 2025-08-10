@@ -60,3 +60,15 @@ function hike()
 
     visits
 end
+
+
+function continuouslandscape(X)
+
+    x = X[1]
+    y = X[2]
+
+    dist_peak_1 = sqrt((x - 3)^2 + (y - 8)^2)
+    dist_peak_2 = sqrt((x - 8)^2 + (y - 2)^2)
+    exp(-0.5 * dist_peak_1^2) + 0.5 * exp(-0.5 * dist_peak_2^2)
+
+end
